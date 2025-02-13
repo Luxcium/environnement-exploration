@@ -1,0 +1,62 @@
+# TypeScript
+*.js
+*.js.map
+*.d.ts
+dist/
+build/
+.tsbuildinfo
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+.yarn/install-state.gz
+
+# Testing
+/coverage
+/test-results/
+junit.xml
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Misc
+.DS_Store
+.turbo
+.cache
+
+# Build artifacts
+tmp/
+temp/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Allow JavaScript files in specific directories
+!jest.config.js
+!.eslintrc.js
+!.prettierrc.js
+!rollup.config.js
+!webpack.config.js
