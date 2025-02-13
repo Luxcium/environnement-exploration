@@ -1,0 +1,14 @@
+# Project Overview
+
+• The "server" folder contains a Next.js application that provides the graphical user interface (GUI).  
+• The "typescript" and "python" folders are dedicated to developing the project's core functionality and backend logic.
+
+# Development Workflow & Planning
+
+• All new creations (features, components, functions) must be fully documented prior to any development actions.  
+• A comprehensive planning phase is required and must be maintained within the project repository. This planning documentation should include design decisions, implementation strategies, and any relevant notes for future reference.  
+• This approach ensures clarity and serves as a historical guide for the project's evolution.
+
+# Future Documentation
+
+• Any modifications, enhancements, or updates to the project should be accompanied by corresponding updates to this documentation.

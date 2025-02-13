@@ -5,6 +5,7 @@
     "build": "tsc",
     "test": "jest",
     "setup": "./scripts/setup.sh",
-    "deploy": "./scripts/deploy.sh"
+    "deploy": "./scripts/deploy.sh",
+    "create-fullstack-app": "npx create-next-app@latest my-fullstack-app --ts --tailwind --src-dir --app --import-alias '@/*' --use-bun --turbo"
   }
 }

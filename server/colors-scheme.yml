@@ -1,0 +1,424 @@
+"#6178":
+  - activityBar.activeBackground
+  - inputOption.activeBackground
+"#617":
+  - activityBar.activeBorder
+"#8B3":
+  - activityBar.activeFocusBorder
+  - editorGutter.addedBackground
+"#1C1C30":
+  - activityBar.background
+"#FC65":
+  - activityBar.border
+  - editorGroup.border
+"#39C":
+  - activityBar.dropBorder
+  - editorGutter.modifiedBackground
+  - symbolIcon.propertyForeground
+"#C4BDB5EE":
+  - activityBar.foreground
+"#C4BDB5AA":
+  - activityBar.inactiveForeground
+"#39CC":
+  - activityBarBadge.background
+  - badge.background
+  - editorOverviewRuler.border
+  - minimapGutter.modifiedBackground
+  - minimapSlider.activeBackground
+  - panelTitle.activeBorder
+  - progressBar.background
+"#FC6C":
+  - activityBarBadge.foreground
+  - badge.foreground
+  - scrollbarSlider.hoverBackground
+"#C9BDB0DD":
+  - breadcrumb.activeSelectionForeground
+  - editor.hoverWidget.foreground
+  - editorInfo.foreground
+  - notifications.foreground
+"#D2C8BEDD":
+  - editor.foreground
+  - editorLineNumber.activeForeground
+  - panelTitle.activeForeground
+  - sideBar.foreground
+  - statusBar.debuggingForeground
+  - editor.selectionForeground
+  - textPreformat.foreground
+  - textSeparator.foreground
+"#C4BDB5DD":
+  - editorSuggestWidget.foreground
+  - peekViewResult.fileForeground
+  - peekViewResult.lineForeground
+  - peekViewResult.selectionForeground
+  - symbolIcon.colorForeground
+  - symbolIcon.keyForeground
+  - symbolIcon.namespaceForeground
+  - terminal.foreground
+  - quickInput.foreground
+  - peekViewTitleDescription.foreground
+  - peekViewTitleLabel.foreground
+"#C4BDB5":
+  - inputOption.activeForeground
+"#F150":
+  - contrastActiveBorder
+"#D2C8BE44":
+  - contrastBorder
+"#1D2555EE":
+  - debugExceptionWidget.background
+  - editorHoverWidget.background
+  - editorWidget.background
+"#D2C8BE33":
+  - debugExceptionWidget.border
+  - editorCodeLens.foreground
+"#2C203C":
+  - debugToolBar.background
+  - notificationCenterHeader.background
+  - walkThrough.embeddedEditorBackground
+"#52A5":
+  - debugToolBar.border
+  - editor.findRangeHighlightBorder
+"#EA2B":
+  - inputOption.activeBorder
+"#617C":
+  - button.background
+  - extensionBadge.remoteBackground
+"#C9BDB0EE":
+  - button.foreground
+  - extensionBadge.remoteForeground
+"#39C6":
+  - editor.findMatchBackground
+  - tab.activeBackground
+"#33FA":
+  - editor.findMatchBorder
+"#39C2":
+  - editor.findMatchHighlightBackground
+"#39CA":
+  - editor.findMatchHighlightBorder
+  - list.filterMatchBackground
+  - editorOverviewRuler.currentContentForeground
+  - merge.currentHeaderBackground
+  - editor.snippetTabstopHighlightBorder
+"#2355":
+  - editor.findRangeHighlightBackground
+  - editor.focusedStackFrameHighlightBackground
+  - editor.rangeHighlightBackground
+  - editor.stackFrameHighlightBackground
+"#27A0D01A":
+  - editor.foldBackground
+"#39C3":
+  - diffEditor.diagonalFill
+  - editor.hoverHighlightBackground
+  - list.dropBackground
+"#8DA3":
+  - diffEditor.insertedTextBackground
+"#6171":
+  - diffEditor.border
+  - diffEditor.insertedTextBorder
+  - diffEditor.removedTextBorder
+  - notificationCenter.border
+  - notificationToast.border
+  - pickerGroup.border
+  - textBlockQuote.border
+  - statusBar.border
+  - statusBar.debuggingBorder
+  - statusBar.noFolderBorder
+"#E473":
+  - diffEditor.removedTextBackground
+"#1C1E2A":
+  - dropdown.background
+"#617A":
+  - dropdown.border
+  - focusBorder
+  - window.activeBorder
+"#19152F":
+  - dropdown.listBackground
+"#20213B":
+  - editor.background
+"#38D6":
+  - editor.inactiveSelectionBackground
+"#15E1":
+  - editor.lineHighlightBackground
+"#5274":
+  - editor.lineHighlightBorder
+"#7261":
+  - editor.rangeHighlightBorder
+"#42E9":
+  - editor.selectionBackground
+"#5272":
+  - editor.selectionHighlightBackground
+"#62BA":
+  - editor.selectionHighlightBorder
+"#235A":
+  - editor.snippetFinalTabstopHighlightBackground
+  - editor.snippetTabstopHighlightBackground
+"#F74":
+  - editor.snippetFinalTabstopHighlightBorder
+"#42EC":
+  - editor.symbolHighlightBackground
+"#B38":
+  - editor.symbolHighlightBorder
+"#8DA2":
+  - editor.wordHighlightBackground
+"#8DAA":
+  - editor.wordHighlightBorder
+  - merge.commonHeaderBackground
+  - mergeEditor.change.word.background
+"#E472":
+  - editor.wordHighlightStrongBackground
+"#E47A":
+  - editor.wordHighlightStrongBorder
+"#D81":
+  - editorBracketHighlight.foreground1
+  - symbolIcon.classForeground
+"#F6B":
+  - editorBracketHighlight.foreground2
+"#5BF":
+  - editorBracketHighlight.foreground3
+  - symbolIcon.variableForeground
+"#FB6":
+  - editorBracketHighlight.foreground4
+"#86F":
+  - editorBracketHighlight.foreground5
+"#8DA":
+  - editorBracketHighlight.foreground6
+"#C21D":
+  - editorBracketHighlight.unexpectedBracket.foreground
+"#AE43":
+  - editorBracketMatch.background
+"#AE4":
+  - editorBracketMatch.border
+"#2915":
+  - editorCursor.background
+"#F33":
+  - editorCursor.foreground
+  - terminalCursor.foreground
+"#F154":
+  - editorError.border
+"#F36":
+  - editorError.foreground
+  - problemsErrorIcon.foreground
+"#F66E":
+  - gitDecoration.addedResourceForeground
+"#C21":
+  - gitDecoration.conflictingResourceForeground
+"#A36E":
+  - gitDecoration.deletedResourceForeground
+"#3ACE":
+  - gitDecoration.ignoredResourceForeground
+"#FA6E":
+  - gitDecoration.modifiedResourceForeground
+"#6F6E":
+  - gitDecoration.renamedResourceForeground
+"#F3FE":
+  - gitDecoration.stageDeletedResourceForeground
+"#EC3E":
+  - gitDecoration.stageModifiedResourceForeground
+"#B4DE":
+  - gitDecoration.submoduleResourceForeground
+"#C5CE":
+  - gitDecoration.untrackedResourceForeground
+"#FC7C":
+  - icon.foreground
+"#FEDD":
+  - input.foreground
+"#FED8":
+  - input.placeholderForeground
+"#EA28":
+  - input.border
+"#7223":
+  - inputValidation.errorBackground
+"#B35":
+  - inputValidation.errorBorder
+  - editorGutter.deletedBackground
+"#2353":
+  - inputValidation.infoBackground
+"#FC4E":
+  - inputValidation.infoBorder
+  - inputValidation.warningBorder
+  - notificationsInfoIcon.foreground
+  - peekView.border
+  - editorMarkerNavigationInfo.background
+  - editorOverviewRuler.infoForeground
+  - problemsInfoIcon.foreground
+"#7523":
+  - inputValidation.warningBackground
+"#39C7":
+  - keybindingLabel.background
+  - list.activeSelectionBackground
+"#FA0":
+  - keybindingLabel.border
+"#FA4A":
+  - keybindingLabel.bottomBorder
+"#FED":
+  - keybindingLabel.foreground
+"#5BFD":
+  - editorSuggestWidget.border
+  - editorSuggestWidget.highlightForeground
+  - symbolIcon.enumeratorMemberForeground
+  - symbolIcon.operatorForeground
+  - symbolIcon.structForeground
+"#4AE4":
+  - editorSuggestWidget.selectedBackground
+"#95B4":
+  - editorUnnecessaryCode.border
+"#FFF6":
+  - editorUnnecessaryCode.opacity
+"#EA20":
+  - editorWarning.border
+"#CF4":
+  - editorWarning.foreground
+  - list.warningForeground
+"#D2C8BE22":
+  - editorWhitespace.foreground
+"#D2C8BE55":
+  - editorHoverWidget.border
+  - editorWidget.border
+  - panel.border
+"#39CE":
+  - editorWidget.resizeBorder
+"#D2C8BEBB":
+  - errorForeground
+  - pickerGroup.foreground
+"#1C1C2E":
+  - editorGroup.emptyBackground
+  - editorGroup.focusedEmptyBorder
+  - editorGroupHeader.noTabsBackground
+  - editorGroupHeader.tabsBackground
+  - editor.hoverWidget.statusBarBackground
+  - titleBar.activeBackground
+  - titleBar.border
+  - titleBar.inactiveBackground
+"#1D2545":
+  - editorGroupHeader.tabsBorder
+  - peekViewEditorGutter.background
+  - tab.unfocusedActiveBackground
+"#1D1C2F":
+  - editorGutter.background
+  - minimap.background
+"#53EA":
+  - editorGutter.commentRangeForeground
+"#FC7":
+  - editorGutter.foldingControlForeground
+"#8B3C":
+  - minimapGutter.addedBackground
+"#B35C":
+  - minimapGutter.deletedBackground
+"#52A4":
+  - minimapSlider.background
+"#52A8":
+  - minimapSlider.hoverBackground
+"#1D1028":
+  - notifications.background
+"#69FD":
+  - notificationLink.foreground
+  - textLink.foreground
+"#F0F":
+  - menu.separatorBackground
+"#6175":
+  - menu.selectionBackground
+  - panelInput.border
+  - menubar.selectionBackground
+"#617":
+  - menu.border
+  - menubar.selectionBorder
+"#DCBD":
+  - menu.foreground
+"#FBA5":
+  - sideBarSectionHeader.border
+"#2A2040":
+  - tab.inactiveBackground
+  - tab.unfocusedInactiveBackground
+"#D2C8BEAA":
+  - tab.inactiveForeground
+  - titleBar.inactiveForeground
+  - tab.unfocusedInactiveForeground
+"#F55":
+  - tab.activeModifiedBorder
+"#1D254500":
+  - tab.activeBorder
+"#BFB":
+  - tab.activeBorderTop
+"#F459":
+  - tab.inactiveModifiedBorder
+  - tab.unfocusedActiveModifiedBorder
+"#39CD":
+  - tab.unfocusedHoverBorder
+  - symbolIcon.fieldForeground
+"#D2C8BE":
+  - tab.hoverForeground
+  - tab.unfocusedHoverForeground
+"#1F1B18":
+  - terminal.background
+"#7165":
+  - terminal.border
+"#4274":
+  - terminal.selectionBackground
+"#29153A":
+  - terminalCursor.background
+"#F25":
+  - terminal.ansiBrightRed
+"#ECEBE0":
+  - terminal.ansiBrightWhite
+"#FACE2F":
+  - terminal.ansiBrightYellow
+"#76BB77":
+  - terminal.ansiCyan
+"#98971A":
+  - terminal.ansiGreen
+"#D68":
+  - terminal.ansiMagenta
+"#CC371E":
+  - terminal.ansiRed
+"#DCCBBA":
+  - terminal.ansiWhite
+"#E79931":
+  - terminal.ansiYellow
+"#8AD1A5":
+  - terminal.ansiBrightCyan
+"#B5D033":
+  - terminal.ansiBrightGreen
+"#C055A9":
+  - terminal.ansiBrightMagenta
+"#64CD":
+  - textLink.activeForeground
+"#9365":
+  - searchEditor.findMatchBackground
+"#C3CA":
+  - searchEditor.findMatchBorder
+"#698A":
+  - selection.background
+"#39C9":
+  - scrollbarSlider.background
+"#112":
+  - scrollbar.shadow
+"#14B5":
+  - peekViewTitle.background
+"#526":
+  - peekViewEditor.matchHighlightBackground
+"#618":
+  - peekViewEditor.matchHighlightBorder
+"#42B4":
+  - peekViewResult.selectionBackground
+"#EDC":
+  - settings.headerForeground
+"#8D3":
+  - symbolIcon.arrayForeground
+  - symbolIcon.booleanForeground
+  - symbolIcon.objectForeground
+"#297DC4":
+  - symbolIcon.constantForeground
+"#E1AE":
+  - symbolIcon.constructorForeground
+"#FB2":
+  - symbolIcon.enumeratorForeground
+"#FC3E":
+  - symbolIcon.eventForeground
+  - symbolIcon.functionForeground
+"#00539C":
+  - symbolIcon.referenceForeground
+"#652D90":
+  - symbolIcon.snippetForeground
+"#CE5":
+  - symbolIcon.stringForeground
+"#4B9":
+  - symbolIcon.unitForeground

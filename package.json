@@ -1,0 +1,11 @@
+{
+    "name": "@luxcium/environnement-exploration",
+    "version": "0.0.1",
+    "description": "A foundational project for local development and production, serving as both a functional base and a reusable template.",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "GitHub Copilot",
+    "license": "ISC"
+}
