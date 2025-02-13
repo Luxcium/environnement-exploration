@@ -1,0 +1,10 @@
+{
+  "name": "environnement-exploration",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "setup": "./scripts/setup.sh",
+    "deploy": "./scripts/deploy.sh"
+  }
+}
